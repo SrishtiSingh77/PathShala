@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'; // Import PropTypes
-import { Card } from "../components/ui/Card";
-import './test.css';
+import { Card } from "./Card";
+import "../test.css";
 import { Star, StarHalf } from "lucide-react";
 
 const testimonials = [
